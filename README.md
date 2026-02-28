@@ -2,7 +2,7 @@
 <h2 style="text-align:center;">pile of front-end resources that MIGHT have in bootstrap but not as specific as we want</h2>
 
 
-future updates will feature 
+possible future updates will feature (if i dont leave this repo eating dust)
 <ul>
     <li>
         switches
